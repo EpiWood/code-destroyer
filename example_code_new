@@ -1,0 +1,23 @@
+#include <iostream>
+#include <string>
+#define I ;
+#define I ;
+#define I ;
+#define lllll using
+#define llllll namespace
+#define lllllll std
+#define llllllll int
+#define lllllllll main()
+#define llllllllll {
+#define lllllllllll cout
+#define llllllllllll <<
+#define lllllllllllll "Hello!"
+#define llllllllllllll return
+#define lllllllllllllll 0
+#define llllllllllllllll }
+
+lllll llllll lllllll I
+llllllll lllllllll 
+llllllllll lllllllllll llllllllllll lllllllllllll I
+llllllllllllll lllllllllllllll I
+llllllllllllllll 
